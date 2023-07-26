@@ -15,7 +15,6 @@
             <option value="$PROJECT_DIR$/stepper_compose" />
           </set>
         </option>
-        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

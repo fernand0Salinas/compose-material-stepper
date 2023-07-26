@@ -39,7 +39,7 @@ fun StepTitle(
       Text(
         modifier = Modifier.padding(top = 0.dp),
         text = it,
-        maxLines = 1,
+        maxLines = 2,
         overflow = TextOverflow.Ellipsis,
         color = if(isError) Const.RedError else Const.Black54,
         style = Const.stepSubtitleStyle
